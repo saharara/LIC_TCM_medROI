@@ -1,0 +1,2232 @@
+{
+  "filename": "BraTS20_Training_005_t1.nii",
+  "original_nifti_path": "D:\\UET\\Tai_lieu\\Nam_3\\Ky_2\\Chu_de_hien_dai_HTTT\\MedROI\\data\\nifti\\BraTS20_Training_005_t1.nii",
+  "cropped_shape": [
+    240,
+    240,
+    155
+  ],
+  "slice_count": 155,
+  "avg_cropping_time": 0,
+  "bbox_info": null,
+  "original_file_size": 17859248,
+  "cropped_file_size": 17859248,
+  "has_roi_metadata": false,
+  "metadata_size_bytes": 0,
+  "experiments": {
+    "quality_3": {
+      "slice_metrics": [
+        {
+          "slice_index": 0,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 1,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 2,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 3,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 4,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 5,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 6,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 7,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 8,
+          "mse": 0.014010416666666666,
+          "psnr": 66.66629309569052,
+          "ssim": 0.9999865403913175,
+          "success": true
+        },
+        {
+          "slice_index": 9,
+          "mse": 0.03378472222222222,
+          "psnr": 62.843600083587894,
+          "ssim": 0.9999653314981212,
+          "success": true
+        },
+        {
+          "slice_index": 10,
+          "mse": 0.07350694444444444,
+          "psnr": 59.46751990607729,
+          "ssim": 0.9998933701777202,
+          "success": true
+        },
+        {
+          "slice_index": 11,
+          "mse": 0.09279513888888889,
+          "psnr": 58.455551347463256,
+          "ssim": 0.9998753950757547,
+          "success": true
+        },
+        {
+          "slice_index": 12,
+          "mse": 0.14506944444444445,
+          "psnr": 56.51504412982852,
+          "ssim": 0.9997505182771822,
+          "success": true
+        },
+        {
+          "slice_index": 13,
+          "mse": 0.18498263888888888,
+          "psnr": 55.45949390240902,
+          "ssim": 0.9997004460875545,
+          "success": true
+        },
+        {
+          "slice_index": 14,
+          "mse": 0.29940972222222223,
+          "psnr": 53.368144625265074,
+          "ssim": 0.9994871901206084,
+          "success": true
+        },
+        {
+          "slice_index": 15,
+          "mse": 0.3472048611111111,
+          "psnr": 52.72494563894122,
+          "ssim": 0.9992914859526986,
+          "success": true
+        },
+        {
+          "slice_index": 16,
+          "mse": 0.34427083333333336,
+          "psnr": 52.761801300858195,
+          "ssim": 0.9991824566097982,
+          "success": true
+        },
+        {
+          "slice_index": 17,
+          "mse": 0.4490277777777778,
+          "psnr": 51.60807152687623,
+          "ssim": 0.9987344008614398,
+          "success": true
+        },
+        {
+          "slice_index": 18,
+          "mse": 0.48352430555555553,
+          "psnr": 51.286620510045324,
+          "ssim": 0.9989365347686371,
+          "success": true
+        },
+        {
+          "slice_index": 19,
+          "mse": 0.628125,
+          "psnr": 50.15034281767328,
+          "ssim": 0.9986514734427444,
+          "success": true
+        },
+        {
+          "slice_index": 20,
+          "mse": 0.7150868055555556,
+          "psnr": 49.58721596150045,
+          "ssim": 0.9985500777442243,
+          "success": true
+        },
+        {
+          "slice_index": 21,
+          "mse": 0.6885243055555555,
+          "psnr": 49.75161085000689,
+          "ssim": 0.9984733885819702,
+          "success": true
+        },
+        {
+          "slice_index": 22,
+          "mse": 0.8784027777777778,
+          "psnr": 48.69386660387971,
+          "ssim": 0.9982642993514821,
+          "success": true
+        },
+        {
+          "slice_index": 23,
+          "mse": 0.8537847222222222,
+          "psnr": 48.817319816742256,
+          "ssim": 0.9983065155033528,
+          "success": true
+        },
+        {
+          "slice_index": 24,
+          "mse": 0.84359375,
+          "psnr": 48.86947007380555,
+          "ssim": 0.9978437790520558,
+          "success": true
+        },
+        {
+          "slice_index": 25,
+          "mse": 0.9745659722222222,
+          "psnr": 48.24269117309308,
+          "ssim": 0.9976552915796089,
+          "success": true
+        },
+        {
+          "slice_index": 26,
+          "mse": 0.91390625,
+          "psnr": 48.52178713488475,
+          "ssim": 0.9972922009089968,
+          "success": true
+        },
+        {
+          "slice_index": 27,
+          "mse": 0.87375,
+          "psnr": 48.71693172114172,
+          "ssim": 0.9972754055592903,
+          "success": true
+        },
+        {
+          "slice_index": 28,
+          "mse": 0.9909895833333333,
+          "psnr": 48.17011271392352,
+          "ssim": 0.9970210672679588,
+          "success": true
+        },
+        {
+          "slice_index": 29,
+          "mse": 1.232361111111111,
+          "psnr": 47.22342375780237,
+          "ssim": 0.996160255019161,
+          "success": true
+        },
+        {
+          "slice_index": 30,
+          "mse": 1.5272743055555555,
+          "psnr": 46.29163315500817,
+          "ssim": 0.9951446449680985,
+          "success": true
+        },
+        {
+          "slice_index": 31,
+          "mse": 1.6905902777777777,
+          "psnr": 45.850419937555486,
+          "ssim": 0.9943709900028206,
+          "success": true
+        },
+        {
+          "slice_index": 32,
+          "mse": 3.3866840277777777,
+          "psnr": 42.83305681316219,
+          "ssim": 0.9865986237414192,
+          "success": true
+        },
+        {
+          "slice_index": 33,
+          "mse": 4.297777777777778,
+          "psnr": 41.79836404896271,
+          "ssim": 0.9871722762559647,
+          "success": true
+        },
+        {
+          "slice_index": 34,
+          "mse": 4.7267013888888885,
+          "psnr": 41.38522194413136,
+          "ssim": 0.9869791373844391,
+          "success": true
+        },
+        {
+          "slice_index": 35,
+          "mse": 4.478732638888889,
+          "psnr": 41.61925223165554,
+          "ssim": 0.9865294033629785,
+          "success": true
+        },
+        {
+          "slice_index": 36,
+          "mse": 3.1485243055555556,
+          "psnr": 43.149733106086074,
+          "ssim": 0.9863857102632351,
+          "success": true
+        },
+        {
+          "slice_index": 37,
+          "mse": 4.119253472222222,
+          "psnr": 41.98261844415134,
+          "ssim": 0.9853619950026188,
+          "success": true
+        },
+        {
+          "slice_index": 38,
+          "mse": 6.826284722222222,
+          "psnr": 39.78895962259134,
+          "ssim": 0.9823927489865346,
+          "success": true
+        },
+        {
+          "slice_index": 39,
+          "mse": 7.0479513888888885,
+          "psnr": 39.65017460868306,
+          "ssim": 0.9796642393060957,
+          "success": true
+        },
+        {
+          "slice_index": 40,
+          "mse": 7.6103125,
+          "psnr": 39.316778704259704,
+          "ssim": 0.976812410712322,
+          "success": true
+        },
+        {
+          "slice_index": 41,
+          "mse": 7.933159722222222,
+          "psnr": 39.13634162628443,
+          "ssim": 0.97663511743442,
+          "success": true
+        },
+        {
+          "slice_index": 42,
+          "mse": 8.45828125,
+          "psnr": 38.85798238901642,
+          "ssim": 0.9785965415363183,
+          "success": true
+        },
+        {
+          "slice_index": 43,
+          "mse": 8.065069444444445,
+          "psnr": 39.06472249625363,
+          "ssim": 0.9766550907671063,
+          "success": true
+        },
+        {
+          "slice_index": 44,
+          "mse": 7.677291666666667,
+          "psnr": 39.278723207407126,
+          "ssim": 0.9803890983674449,
+          "success": true
+        },
+        {
+          "slice_index": 45,
+          "mse": 6.513298611111111,
+          "psnr": 39.992793714110164,
+          "ssim": 0.9840890298014822,
+          "success": true
+        },
+        {
+          "slice_index": 46,
+          "mse": 6.936336805555555,
+          "psnr": 39.71950187985262,
+          "ssim": 0.9836049181905024,
+          "success": true
+        },
+        {
+          "slice_index": 47,
+          "mse": 7.886805555555555,
+          "psnr": 39.16179227178976,
+          "ssim": 0.9837911417305037,
+          "success": true
+        },
+        {
+          "slice_index": 48,
+          "mse": 7.5153993055555555,
+          "psnr": 39.37128300550127,
+          "ssim": 0.9831149584184107,
+          "success": true
+        },
+        {
+          "slice_index": 49,
+          "mse": 6.2776909722222225,
+          "psnr": 40.15280427707439,
+          "ssim": 0.983387629162251,
+          "success": true
+        },
+        {
+          "slice_index": 50,
+          "mse": 8.620972222222223,
+          "psnr": 38.77524115120105,
+          "ssim": 0.9795749434030582,
+          "success": true
+        },
+        {
+          "slice_index": 51,
+          "mse": 7.9280381944444445,
+          "psnr": 39.13914627110608,
+          "ssim": 0.9783869759511573,
+          "success": true
+        },
+        {
+          "slice_index": 52,
+          "mse": 10.676684027777778,
+          "psnr": 37.84643970726877,
+          "ssim": 0.9783672516869382,
+          "success": true
+        },
+        {
+          "slice_index": 53,
+          "mse": 7.58015625,
+          "psnr": 39.33402203017729,
+          "ssim": 0.9794377502645079,
+          "success": true
+        },
+        {
+          "slice_index": 54,
+          "mse": 6.673871527777778,
+          "psnr": 39.88702518650157,
+          "ssim": 0.9817239926854119,
+          "success": true
+        },
+        {
+          "slice_index": 55,
+          "mse": 7.40625,
+          "psnr": 39.43481993177712,
+          "ssim": 0.9782833368072182,
+          "success": true
+        },
+        {
+          "slice_index": 56,
+          "mse": 6.6605034722222225,
+          "psnr": 39.895733018262064,
+          "ssim": 0.9819227749784892,
+          "success": true
+        },
+        {
+          "slice_index": 57,
+          "mse": 6.175104166666666,
+          "psnr": 40.22436072842772,
+          "ssim": 0.9820433328642804,
+          "success": true
+        },
+        {
+          "slice_index": 58,
+          "mse": 10.890850694444444,
+          "psnr": 37.76018556642575,
+          "ssim": 0.9770239957424839,
+          "success": true
+        },
+        {
+          "slice_index": 59,
+          "mse": 11.986458333333333,
+          "psnr": 37.34389480813646,
+          "ssim": 0.9736383723716392,
+          "success": true
+        },
+        {
+          "slice_index": 60,
+          "mse": 12.003975694444444,
+          "psnr": 37.33755253470255,
+          "ssim": 0.9732681263883827,
+          "success": true
+        },
+        {
+          "slice_index": 61,
+          "mse": 11.728350694444444,
+          "psnr": 37.4384341735113,
+          "ssim": 0.9741766913548305,
+          "success": true
+        },
+        {
+          "slice_index": 62,
+          "mse": 10.361319444444444,
+          "psnr": 37.97665297451529,
+          "ssim": 0.9744400368806744,
+          "success": true
+        },
+        {
+          "slice_index": 63,
+          "mse": 10.236163194444444,
+          "psnr": 38.0294315967057,
+          "ssim": 0.9759325403757216,
+          "success": true
+        },
+        {
+          "slice_index": 64,
+          "mse": 10.941354166666667,
+          "psnr": 37.74009284691741,
+          "ssim": 0.9761569892404701,
+          "success": true
+        },
+        {
+          "slice_index": 65,
+          "mse": 6.279392361111111,
+          "psnr": 40.15162740535836,
+          "ssim": 0.9782217127050636,
+          "success": true
+        },
+        {
+          "slice_index": 66,
+          "mse": 10.746631944444445,
+          "psnr": 37.8180798565184,
+          "ssim": 0.9724737069716879,
+          "success": true
+        },
+        {
+          "slice_index": 67,
+          "mse": 9.813246527777778,
+          "psnr": 38.21267651566865,
+          "ssim": 0.9717419699147766,
+          "success": true
+        },
+        {
+          "slice_index": 68,
+          "mse": 11.011614583333333,
+          "psnr": 37.7122935858803,
+          "ssim": 0.970707798412299,
+          "success": true
+        },
+        {
+          "slice_index": 69,
+          "mse": 7.403090277777777,
+          "psnr": 39.436673154028135,
+          "ssim": 0.9757711332981224,
+          "success": true
+        },
+        {
+          "slice_index": 70,
+          "mse": 6.196284722222222,
+          "psnr": 40.209489952847804,
+          "ssim": 0.97761551400687,
+          "success": true
+        },
+        {
+          "slice_index": 71,
+          "mse": 12.614947916666667,
+          "psnr": 37.12194899082169,
+          "ssim": 0.9693636996862434,
+          "success": true
+        },
+        {
+          "slice_index": 72,
+          "mse": 7.990121527777778,
+          "psnr": 39.10526975991728,
+          "ssim": 0.9764707173163812,
+          "success": true
+        },
+        {
+          "slice_index": 73,
+          "mse": 6.080868055555555,
+          "psnr": 40.291147808010415,
+          "ssim": 0.9795736022285984,
+          "success": true
+        },
+        {
+          "slice_index": 74,
+          "mse": 7.680989583333333,
+          "psnr": 39.276631847302745,
+          "ssim": 0.9781859633846814,
+          "success": true
+        },
+        {
+          "slice_index": 75,
+          "mse": 11.98220486111111,
+          "psnr": 37.34543620368234,
+          "ssim": 0.9743487740801372,
+          "success": true
+        },
+        {
+          "slice_index": 76,
+          "mse": 12.252621527777778,
+          "psnr": 37.248513421067045,
+          "ssim": 0.9727665502171045,
+          "success": true
+        },
+        {
+          "slice_index": 77,
+          "mse": 10.70923611111111,
+          "psnr": 37.833218671192384,
+          "ssim": 0.9760087200057701,
+          "success": true
+        },
+        {
+          "slice_index": 78,
+          "mse": 12.60484375,
+          "psnr": 37.12542894348773,
+          "ssim": 0.9746767366577531,
+          "success": true
+        },
+        {
+          "slice_index": 79,
+          "mse": 13.484722222222222,
+          "psnr": 36.83238356211638,
+          "ssim": 0.9720538249864437,
+          "success": true
+        },
+        {
+          "slice_index": 80,
+          "mse": 9.320572916666666,
+          "psnr": 38.43637752494647,
+          "ssim": 0.9754265544073798,
+          "success": true
+        },
+        {
+          "slice_index": 81,
+          "mse": 8.81857638888889,
+          "psnr": 38.67681879630832,
+          "ssim": 0.9787480449046047,
+          "success": true
+        },
+        {
+          "slice_index": 82,
+          "mse": 12.308784722222223,
+          "psnr": 37.22865184824243,
+          "ssim": 0.9733832755452364,
+          "success": true
+        },
+        {
+          "slice_index": 83,
+          "mse": 11.979427083333333,
+          "psnr": 37.34644312472098,
+          "ssim": 0.9742917860817394,
+          "success": true
+        },
+        {
+          "slice_index": 84,
+          "mse": 8.906319444444444,
+          "psnr": 38.63382092880758,
+          "ssim": 0.9767314279009496,
+          "success": true
+        },
+        {
+          "slice_index": 85,
+          "mse": 6.6015625,
+          "psnr": 39.93433621566086,
+          "ssim": 0.9809155430989932,
+          "success": true
+        },
+        {
+          "slice_index": 86,
+          "mse": 9.758368055555556,
+          "psnr": 38.2370316653393,
+          "ssim": 0.9742694676493505,
+          "success": true
+        },
+        {
+          "slice_index": 87,
+          "mse": 11.12685763888889,
+          "psnr": 37.66707829307506,
+          "ssim": 0.9724005987041987,
+          "success": true
+        },
+        {
+          "slice_index": 88,
+          "mse": 11.074444444444444,
+          "psnr": 37.68758412046294,
+          "ssim": 0.9705209904585744,
+          "success": true
+        },
+        {
+          "slice_index": 89,
+          "mse": 11.48734375,
+          "psnr": 37.52860743674987,
+          "ssim": 0.9685628712659571,
+          "success": true
+        },
+        {
+          "slice_index": 90,
+          "mse": 10.055329861111112,
+          "psnr": 38.10684038843098,
+          "ssim": 0.970764950176827,
+          "success": true
+        },
+        {
+          "slice_index": 91,
+          "mse": 9.8240625,
+          "psnr": 38.20789244110845,
+          "ssim": 0.9704683344489804,
+          "success": true
+        },
+        {
+          "slice_index": 92,
+          "mse": 8.957847222222222,
+          "psnr": 38.60876709670567,
+          "ssim": 0.9722889804118663,
+          "success": true
+        },
+        {
+          "slice_index": 93,
+          "mse": 9.287065972222223,
+          "psnr": 38.45201830225627,
+          "ssim": 0.9725273359757585,
+          "success": true
+        },
+        {
+          "slice_index": 94,
+          "mse": 10.264600694444445,
+          "psnr": 38.017383014206644,
+          "ssim": 0.9697406947338403,
+          "success": true
+        },
+        {
+          "slice_index": 95,
+          "mse": 10.370364583333334,
+          "psnr": 37.97286336036577,
+          "ssim": 0.9719600935623953,
+          "success": true
+        },
+        {
+          "slice_index": 96,
+          "mse": 7.061614583333333,
+          "psnr": 39.64176350401994,
+          "ssim": 0.9789689862964016,
+          "success": true
+        },
+        {
+          "slice_index": 97,
+          "mse": 9.561649305555555,
+          "psnr": 38.32547549917999,
+          "ssim": 0.9727918834070289,
+          "success": true
+        },
+        {
+          "slice_index": 98,
+          "mse": 10.563836805555555,
+          "psnr": 37.89258677438869,
+          "ssim": 0.971500134709154,
+          "success": true
+        },
+        {
+          "slice_index": 99,
+          "mse": 10.931909722222223,
+          "psnr": 37.74384324318438,
+          "ssim": 0.9751992928142684,
+          "success": true
+        },
+        {
+          "slice_index": 100,
+          "mse": 11.25951388888889,
+          "psnr": 37.615607199023486,
+          "ssim": 0.9751845472389145,
+          "success": true
+        },
+        {
+          "slice_index": 101,
+          "mse": 11.409305555555555,
+          "psnr": 37.55821149628354,
+          "ssim": 0.975361261974328,
+          "success": true
+        },
+        {
+          "slice_index": 102,
+          "mse": 11.408506944444444,
+          "psnr": 37.5585154977288,
+          "ssim": 0.9786223113590705,
+          "success": true
+        },
+        {
+          "slice_index": 103,
+          "mse": 10.336805555555555,
+          "psnr": 37.98694013980417,
+          "ssim": 0.9811709205181269,
+          "success": true
+        },
+        {
+          "slice_index": 104,
+          "mse": 10.72640625,
+          "psnr": 37.826261195375096,
+          "ssim": 0.9800846109637062,
+          "success": true
+        },
+        {
+          "slice_index": 105,
+          "mse": 10.056197916666667,
+          "psnr": 38.10646548728755,
+          "ssim": 0.9798766581796815,
+          "success": true
+        },
+        {
+          "slice_index": 106,
+          "mse": 10.257881944444444,
+          "psnr": 38.02022664302668,
+          "ssim": 0.9792870635532526,
+          "success": true
+        },
+        {
+          "slice_index": 107,
+          "mse": 9.725555555555555,
+          "psnr": 38.251659418397445,
+          "ssim": 0.9830448511986651,
+          "success": true
+        },
+        {
+          "slice_index": 108,
+          "mse": 9.8359375,
+          "psnr": 38.20264600407916,
+          "ssim": 0.982639561968688,
+          "success": true
+        },
+        {
+          "slice_index": 109,
+          "mse": 9.644583333333333,
+          "psnr": 38.28796890934966,
+          "ssim": 0.9843040865257191,
+          "success": true
+        },
+        {
+          "slice_index": 110,
+          "mse": 8.559826388888888,
+          "psnr": 38.806154044982534,
+          "ssim": 0.9860776382176353,
+          "success": true
+        },
+        {
+          "slice_index": 111,
+          "mse": 7.666614583333334,
+          "psnr": 39.28476729950123,
+          "ssim": 0.9865565612915129,
+          "success": true
+        },
+        {
+          "slice_index": 112,
+          "mse": 6.615434027777778,
+          "psnr": 39.925220180608996,
+          "ssim": 0.9895728571971082,
+          "success": true
+        },
+        {
+          "slice_index": 113,
+          "mse": 6.3003125,
+          "psnr": 40.137182695635815,
+          "ssim": 0.9882737661719246,
+          "success": true
+        },
+        {
+          "slice_index": 114,
+          "mse": 6.389930555555556,
+          "psnr": 40.07584222506522,
+          "ssim": 0.9896428195699342,
+          "success": true
+        },
+        {
+          "slice_index": 115,
+          "mse": 5.807013888888889,
+          "psnr": 40.49127496112252,
+          "ssim": 0.9908874830561527,
+          "success": true
+        },
+        {
+          "slice_index": 116,
+          "mse": 5.011059027777778,
+          "psnr": 41.131508423227636,
+          "ssim": 0.9915841799480329,
+          "success": true
+        },
+        {
+          "slice_index": 117,
+          "mse": 3.988541666666667,
+          "psnr": 42.12266227559791,
+          "ssim": 0.9932882233041902,
+          "success": true
+        },
+        {
+          "slice_index": 118,
+          "mse": 4.5846527777777775,
+          "psnr": 41.51773911244709,
+          "ssim": 0.992347488676221,
+          "success": true
+        },
+        {
+          "slice_index": 119,
+          "mse": 4.981111111111111,
+          "psnr": 41.15754131441443,
+          "ssim": 0.992695814462268,
+          "success": true
+        },
+        {
+          "slice_index": 120,
+          "mse": 5.607673611111111,
+          "psnr": 40.64297632838426,
+          "ssim": 0.9939832926686466,
+          "success": true
+        },
+        {
+          "slice_index": 121,
+          "mse": 5.346857638888889,
+          "psnr": 40.849817397875924,
+          "ssim": 0.9923868986086021,
+          "success": true
+        },
+        {
+          "slice_index": 122,
+          "mse": 4.422274305555556,
+          "psnr": 41.67434683300392,
+          "ssim": 0.9939281376910261,
+          "success": true
+        },
+        {
+          "slice_index": 123,
+          "mse": 3.600815972222222,
+          "psnr": 42.56679434523193,
+          "ssim": 0.9956273096216615,
+          "success": true
+        },
+        {
+          "slice_index": 124,
+          "mse": 2.941545138888889,
+          "psnr": 43.445048437147484,
+          "ssim": 0.9967668679593952,
+          "success": true
+        },
+        {
+          "slice_index": 125,
+          "mse": 2.3145486111111113,
+          "psnr": 44.486140544202335,
+          "ssim": 0.9960009664872659,
+          "success": true
+        },
+        {
+          "slice_index": 126,
+          "mse": 1.6281597222222222,
+          "psnr": 46.01383354001942,
+          "ssim": 0.9968955044142658,
+          "success": true
+        },
+        {
+          "slice_index": 127,
+          "mse": 1.3314756944444444,
+          "psnr": 46.887471178924265,
+          "ssim": 0.9973951660650534,
+          "success": true
+        },
+        {
+          "slice_index": 128,
+          "mse": 1.0094618055555555,
+          "psnr": 48.08990469435965,
+          "ssim": 0.9984906093645167,
+          "success": true
+        },
+        {
+          "slice_index": 129,
+          "mse": 0.6936111111111111,
+          "psnr": 49.7196431928385,
+          "ssim": 0.9989400355486936,
+          "success": true
+        },
+        {
+          "slice_index": 130,
+          "mse": 0.40125,
+          "psnr": 52.09665315454981,
+          "ssim": 0.9993625467560189,
+          "success": true
+        },
+        {
+          "slice_index": 131,
+          "mse": 0.24927083333333333,
+          "psnr": 54.16408895294041,
+          "ssim": 0.999659168879313,
+          "success": true
+        },
+        {
+          "slice_index": 132,
+          "mse": 0.13520833333333335,
+          "psnr": 56.820769014431285,
+          "ssim": 0.9997396635286712,
+          "success": true
+        },
+        {
+          "slice_index": 133,
+          "mse": 0.07729166666666666,
+          "psnr": 59.24947688628451,
+          "ssim": 0.999862062194953,
+          "success": true
+        },
+        {
+          "slice_index": 134,
+          "mse": 0.00814236111111111,
+          "psnr": 69.02330001576038,
+          "ssim": 0.99999117141796,
+          "success": true
+        },
+        {
+          "slice_index": 135,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 136,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 137,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 138,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 139,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 140,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 141,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 142,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 143,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 144,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 145,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 146,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 147,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 148,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 149,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 150,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 151,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 152,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 153,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 154,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        }
+      ],
+      "quality_metrics": {
+        "success_rate": 1.0,
+        "avg_mse": 5.209666330645161,
+        "avg_psnr": 52.99566910319769,
+        "avg_ssim": 0.9875053162401839
+      },
+      "volume_metrics": {
+        "compressed_file_size": 389526,
+        "metadata_size": 0,
+        "compressed_size_coeffs": 389526,
+        "compression_ratio_file": 45.848667354682355,
+        "compression_ratio_memory": 22.920164507632354,
+        "bpp": 0.34903763440860214,
+        "total_compression_time": 0.4000990390777588,
+        "total_decompression_time": 0.16550326347351074,
+        "avg_compression_time_per_slice": 0.002581284123082315,
+        "avg_decompression_time_per_slice": 0.0010677629901516823
+      }
+    },
+    "quality_5": {
+      "slice_metrics": [
+        {
+          "slice_index": 0,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 1,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 2,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 3,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 4,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 5,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 6,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 7,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 8,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 9,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 10,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 11,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 12,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 13,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 14,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 15,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 16,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 17,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 18,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 19,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 20,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 21,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 22,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 23,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 24,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 25,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 26,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 27,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 28,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 29,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 30,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 31,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 32,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 33,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 34,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 35,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 36,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 37,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 38,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 39,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 40,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 41,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 42,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 43,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 44,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 45,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 46,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 47,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 48,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 49,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 50,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 51,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 52,
+          "mse": 0.040677083333333336,
+          "psnr": 62.03730555694159,
+          "ssim": 0.9999153700231099,
+          "success": true
+        },
+        {
+          "slice_index": 53,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 54,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 55,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 56,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 57,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 58,
+          "mse": 0.11060763888888889,
+          "psnr": 57.6929523920908,
+          "ssim": 0.9997421540974707,
+          "success": true
+        },
+        {
+          "slice_index": 59,
+          "mse": 0.1373090277777778,
+          "psnr": 56.75381268750015,
+          "ssim": 0.9996804106367417,
+          "success": true
+        },
+        {
+          "slice_index": 60,
+          "mse": 0.16552083333333334,
+          "psnr": 55.94227696700099,
+          "ssim": 0.999626056119415,
+          "success": true
+        },
+        {
+          "slice_index": 61,
+          "mse": 0.1540798611111111,
+          "psnr": 56.253344825639914,
+          "ssim": 0.9996766746032361,
+          "success": true
+        },
+        {
+          "slice_index": 62,
+          "mse": 0.1678125,
+          "psnr": 55.8825605348826,
+          "ssim": 0.9995956049417666,
+          "success": true
+        },
+        {
+          "slice_index": 63,
+          "mse": 0.14973958333333334,
+          "psnr": 56.37743740545811,
+          "ssim": 0.9996239240116798,
+          "success": true
+        },
+        {
+          "slice_index": 64,
+          "mse": 0.19854166666666667,
+          "psnr": 55.15228697605171,
+          "ssim": 0.9995209840649187,
+          "success": true
+        },
+        {
+          "slice_index": 65,
+          "mse": 0.05600694444444444,
+          "psnr": 60.6483848123818,
+          "ssim": 0.9997841455656319,
+          "success": true
+        },
+        {
+          "slice_index": 66,
+          "mse": 0.1942361111111111,
+          "psnr": 55.24750386591633,
+          "ssim": 0.9994958169149535,
+          "success": true
+        },
+        {
+          "slice_index": 67,
+          "mse": 0.18064236111111112,
+          "psnr": 55.56260759743477,
+          "ssim": 0.9994776629151845,
+          "success": true
+        },
+        {
+          "slice_index": 68,
+          "mse": 0.20215277777777776,
+          "psnr": 55.07400647524349,
+          "ssim": 0.9994320694190759,
+          "success": true
+        },
+        {
+          "slice_index": 69,
+          "mse": 0.1431076388888889,
+          "psnr": 56.57417544447419,
+          "ssim": 0.9994831591436194,
+          "success": true
+        },
+        {
+          "slice_index": 70,
+          "mse": 0.069375,
+          "psnr": 59.718773647371776,
+          "ssim": 0.9997152358674918,
+          "success": true
+        },
+        {
+          "slice_index": 71,
+          "mse": 0.2523784722222222,
+          "psnr": 54.11028053853005,
+          "ssim": 0.9993580406391547,
+          "success": true
+        },
+        {
+          "slice_index": 72,
+          "mse": 0.16657986111111112,
+          "psnr": 55.91457865219632,
+          "ssim": 0.999449105692974,
+          "success": true
+        },
+        {
+          "slice_index": 73,
+          "mse": 0.07118055555555555,
+          "psnr": 59.60718987571387,
+          "ssim": 0.9997250589456642,
+          "success": true
+        },
+        {
+          "slice_index": 74,
+          "mse": 0.14128472222222221,
+          "psnr": 56.629851587738564,
+          "ssim": 0.9995285581538998,
+          "success": true
+        },
+        {
+          "slice_index": 75,
+          "mse": 0.20147569444444444,
+          "psnr": 55.088576994991854,
+          "ssim": 0.9994787420920731,
+          "success": true
+        },
+        {
+          "slice_index": 76,
+          "mse": 0.2228125,
+          "psnr": 54.65140809335951,
+          "ssim": 0.999484776896153,
+          "success": true
+        },
+        {
+          "slice_index": 77,
+          "mse": 0.19713541666666667,
+          "psnr": 55.18315705735368,
+          "ssim": 0.9994946329407922,
+          "success": true
+        },
+        {
+          "slice_index": 78,
+          "mse": 0.23753472222222222,
+          "psnr": 54.373532582025916,
+          "ssim": 0.9994345751709299,
+          "success": true
+        },
+        {
+          "slice_index": 79,
+          "mse": 0.22918402777777777,
+          "psnr": 54.5289601323435,
+          "ssim": 0.9994812805880443,
+          "success": true
+        },
+        {
+          "slice_index": 80,
+          "mse": 0.18475694444444443,
+          "psnr": 55.46479589702419,
+          "ssim": 0.9994760986428187,
+          "success": true
+        },
+        {
+          "slice_index": 81,
+          "mse": 0.16128472222222223,
+          "psnr": 56.0548713029748,
+          "ssim": 0.9995293419896201,
+          "success": true
+        },
+        {
+          "slice_index": 82,
+          "mse": 0.21796875,
+          "psnr": 54.74686127242181,
+          "ssim": 0.9994837049236008,
+          "success": true
+        },
+        {
+          "slice_index": 83,
+          "mse": 0.215625,
+          "psnr": 54.793812484505615,
+          "ssim": 0.9994752409219418,
+          "success": true
+        },
+        {
+          "slice_index": 84,
+          "mse": 0.15322916666666667,
+          "psnr": 56.27738921179948,
+          "ssim": 0.9995668622141122,
+          "success": true
+        },
+        {
+          "slice_index": 85,
+          "mse": 0.06940972222222222,
+          "psnr": 59.71660054509024,
+          "ssim": 0.9997583180712362,
+          "success": true
+        },
+        {
+          "slice_index": 86,
+          "mse": 0.17090277777777776,
+          "psnr": 55.80331239260357,
+          "ssim": 0.9994891357141795,
+          "success": true
+        },
+        {
+          "slice_index": 87,
+          "mse": 0.20824652777777777,
+          "psnr": 54.945025919872734,
+          "ssim": 0.9993763801438705,
+          "success": true
+        },
+        {
+          "slice_index": 88,
+          "mse": 0.20315972222222223,
+          "psnr": 55.05242750516423,
+          "ssim": 0.9993486681527214,
+          "success": true
+        },
+        {
+          "slice_index": 89,
+          "mse": 0.185625,
+          "psnr": 55.44443894206623,
+          "ssim": 0.9993974476785382,
+          "success": true
+        },
+        {
+          "slice_index": 90,
+          "mse": 0.16104166666666667,
+          "psnr": 56.06142104325173,
+          "ssim": 0.9994813330425023,
+          "success": true
+        },
+        {
+          "slice_index": 91,
+          "mse": 0.17569444444444443,
+          "psnr": 55.68322331787342,
+          "ssim": 0.9994352130053632,
+          "success": true
+        },
+        {
+          "slice_index": 92,
+          "mse": 0.14237847222222222,
+          "psnr": 56.59636032394883,
+          "ssim": 0.9994987693919805,
+          "success": true
+        },
+        {
+          "slice_index": 93,
+          "mse": 0.1310763888888889,
+          "psnr": 56.95555892661935,
+          "ssim": 0.99954860798737,
+          "success": true
+        },
+        {
+          "slice_index": 94,
+          "mse": 0.15302083333333333,
+          "psnr": 56.28329798117222,
+          "ssim": 0.9994457965532194,
+          "success": true
+        },
+        {
+          "slice_index": 95,
+          "mse": 0.14828125,
+          "psnr": 56.41994122424505,
+          "ssim": 0.9995144321531539,
+          "success": true
+        },
+        {
+          "slice_index": 96,
+          "mse": 0.045538194444444444,
+          "psnr": 61.54704553700768,
+          "ssim": 0.9998158192524317,
+          "success": true
+        },
+        {
+          "slice_index": 97,
+          "mse": 0.11140625,
+          "psnr": 57.66170804999932,
+          "ssim": 0.999653976082356,
+          "success": true
+        },
+        {
+          "slice_index": 98,
+          "mse": 0.13322916666666668,
+          "psnr": 56.884810494288246,
+          "ssim": 0.9996228193817933,
+          "success": true
+        },
+        {
+          "slice_index": 99,
+          "mse": 0.10951388888888888,
+          "psnr": 57.736111596342575,
+          "ssim": 0.9997235092338177,
+          "success": true
+        },
+        {
+          "slice_index": 100,
+          "mse": 0.10838541666666666,
+          "psnr": 57.78109509359833,
+          "ssim": 0.9997284640140325,
+          "success": true
+        },
+        {
+          "slice_index": 101,
+          "mse": 0.1051736111111111,
+          "psnr": 57.91173575294286,
+          "ssim": 0.9997510623457317,
+          "success": true
+        },
+        {
+          "slice_index": 102,
+          "mse": 0.05942708333333333,
+          "psnr": 60.39095945153245,
+          "ssim": 0.999864526530706,
+          "success": true
+        },
+        {
+          "slice_index": 103,
+          "mse": 0.045989583333333334,
+          "psnr": 61.50420885993891,
+          "ssim": 0.9999061653072755,
+          "success": true
+        },
+        {
+          "slice_index": 104,
+          "mse": 0.029305555555555557,
+          "psnr": 63.46130402001486,
+          "ssim": 0.9999312106850851,
+          "success": true
+        },
+        {
+          "slice_index": 105,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 106,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 107,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 108,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 109,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 110,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 111,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 112,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 113,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 114,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 115,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 116,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 117,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 118,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 119,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 120,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 121,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 122,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 123,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 124,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 125,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 126,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 127,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 128,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 129,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 130,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 131,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 132,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 133,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 134,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 135,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 136,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 137,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 138,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 139,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 140,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 141,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 142,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 143,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 144,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 145,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 146,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 147,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 148,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 149,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 150,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 151,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 152,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 153,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        },
+        {
+          "slice_index": 154,
+          "mse": 0.0,
+          "psnr": 100.0,
+          "ssim": 1.0,
+          "success": true
+        }
+      ],
+      "quality_metrics": {
+        "success_rate": 1.0,
+        "avg_mse": 0.045929323476702505,
+        "avg_psnr": 86.64634375386414,
+        "avg_ssim": 0.9998711415668607
+      },
+      "volume_metrics": {
+        "compressed_file_size": 1178519,
+        "metadata_size": 0,
+        "compressed_size_coeffs": 1178519,
+        "compression_ratio_file": 15.15397545563542,
+        "compression_ratio_memory": 7.575609727123619,
+        "bpp": 1.0560206093189963,
+        "total_compression_time": 0.4474217891693115,
+        "total_decompression_time": 0.3385758399963379,
+        "avg_compression_time_per_slice": 0.0028865921881891065,
+        "avg_decompression_time_per_slice": 0.0021843602580408896
+      }
+    }
+  }
+}

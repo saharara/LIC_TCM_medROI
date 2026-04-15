@@ -1,3 +1,0 @@
-Subject_ID,Num_Slices,Avg_PSNR_dB,Avg_SSIM,BPP,Compression_Ratio,Compressed_Size_Bytes,Metadata_Size_Bytes,Total_Size_Bytes,Cropping_Time_s,Compression_Time_s,Decompression_Time_s
-002_S_0413,256,32.00,0.9020,0.0006,13653.33,792,0,792,0.0000,6.6356,1.6535
-AVERAGE,-,32.00,0.9020,0.0006,13653.33,-,0,-,-,-,-

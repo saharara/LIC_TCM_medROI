@@ -193,7 +193,7 @@ class BrainImageProcessor:
 class TCMCompressor:
     """TCM model compression wrapper"""
     
-    def __init__(self, checkpoint_path, device='cuda', real_mode=True):
+    def __init__(self, checkpoint_path, device='cpu', real_mode=True):
         self.device = device
         self.real_mode = real_mode
         self.padding_size = 128
@@ -440,7 +440,7 @@ def find_file_pairs(cropped_dir, original_dir):
 class TCMExperiment:
     """TCM compression experiment manager"""
     
-    def __init__(self, checkpoint_path, device='cuda', real_mode=True):
+    def __init__(self, checkpoint_path, device='cpu', real_mode=True):
         self.processor = BrainImageProcessor()
         self.compressor = TCMCompressor(checkpoint_path, device, real_mode)
         self.evaluator = CompressionEvaluator()
@@ -787,7 +787,7 @@ class TCMExperiment:
 # ========== Batch Processing Functions ==========
 
 def batch_process(checkpoint_path, cropped_dir, original_dir, output_dir,
-                 bbox_csv=None, max_files=None, device='cuda', real_mode=True,
+                 bbox_csv=None, max_files=None, device='cpu', real_mode=True,
                  target_slice=None):
     """
     Batch process ROI compressed files.
@@ -799,7 +799,7 @@ def batch_process(checkpoint_path, cropped_dir, original_dir, output_dir,
         output_dir: output directory
         bbox_csv: path to bbox CSV file
         max_files: maximum number of files to process
-        device: 'cuda' or 'cpu'
+        device: 'cpu' or 'cpu'
         real_mode: use real compression with entropy coding
     """
     file_pairs = find_file_pairs(cropped_dir, original_dir)
@@ -906,7 +906,7 @@ def batch_process(checkpoint_path, cropped_dir, original_dir, output_dir,
 
 
 def batch_process_original_only(checkpoint_path, original_dir, output_dir,
-                                max_files=None, device='cuda', real_mode=True,
+                                max_files=None, device='cpu', real_mode=True,
                                 axis=2, target_slice=None):
     """Batch process original data without cropping"""
     original_files = sorted(glob.glob(os.path.join(original_dir, '*.nii*')))
@@ -1026,12 +1026,14 @@ Examples:
                        help='Use original data without cropping')
     parser.add_argument('--max_files', type=int,
                        help='Maximum number of files to process')
-    parser.add_argument('--device', default='cuda', choices=['cuda', 'cpu'],
+    parser.add_argument('--device', default='cpu', choices=['cpu', 'cpu'],
                        help='Device to use')
     parser.add_argument('--real_mode', action='store_true',
                        help='Use real compression with entropy coding')
     parser.add_argument('--axis', type=int, default=2, choices=[0,1,2],
                        help='Slice axis: 0=sagittal, 1=coronal, 2=axial')
+    parser.add_argument('--target_slice', type=int, default=None, help='Specific slice index')
+    
     
     args = parser.parse_args()
     

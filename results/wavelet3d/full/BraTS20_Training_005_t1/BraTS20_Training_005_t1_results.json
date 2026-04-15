@@ -1,0 +1,37 @@
+{
+  "filename": "BraTS20_Training_005_t1.nii",
+  "original_nifti_path": "D:\\UET\\Tai_lieu\\Nam_3\\Ky_2\\Chu_de_hien_dai_HTTT\\MedROI\\data\\nifti\\BraTS20_Training_005_t1.nii",
+  "cropped_shape": [
+    240,
+    240,
+    155
+  ],
+  "compression_method": "3D_Wavelet",
+  "wavelet_type": "bior4.4",
+  "wavelet_level": 3,
+  "has_roi_metadata": false,
+  "metadata_size_bytes": 0,
+  "cropping_time": 0,
+  "experiments": {
+    "quality_3": {
+      "mse": 0.37942224234550964,
+      "psnr": 52.33957574524071,
+      "ssim": 0.9978427609447134,
+      "compression_ratio": 10.491864926640382,
+      "compression_ratio_file_based": 20.987546786220026,
+      "bpp": 0.7624955197132617,
+      "original_full_size": 8928000,
+      "original_file_size": 17859248,
+      "cropped_size": 8928000,
+      "compressed_size_total": 850945,
+      "compressed_size_coeffs": 850945,
+      "metadata_size": 0,
+      "metadata_overhead_pct": 0.0,
+      "cropping_time": 0,
+      "compression_time": 1.9941470623016357,
+      "decompression_time": 0.22240734100341797,
+      "total_time": 2.2165544033050537,
+      "success": true
+    }
+  }
+}

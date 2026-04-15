@@ -8,10 +8,14 @@ from scipy import ndimage
 import time
 
 # Parameters
-SUBJECTS_ROOT = "/path/to/nifti/files"
+SUBJECTS_ROOT = r"D:\UET\Tai_lieu\Nam_3\Ky_2\Chu_de_hien_dai_HTTT\MedROI\data"
 NIFTI_PATTERN = "*.nii"
 OUT_DIR       = "./bbox_outputs"
 SAVE_CROPPED  = True
+
+# Parameters - Sửa lại cho đúng thực tế của bạn
+# SUBJECTS_ROOT = r"D:\UET\Tai_lieu\Nam_3\Ky_2\Chu_de_hien_dai_HTTT\MedROI\data"         # Trỏ đúng vào thư mục chứa ảnh
+# NIFTI_PATTERN = "*.nii*"        # Nhận diện cả .nii và .nii.gz cho chắc chắn
 
 MISS_THR  = 0.002
 PADDING   = 3
@@ -128,9 +132,13 @@ def main():
     if SAVE_CROPPED:
         os.makedirs(os.path.join(OUT_DIR, "cropped_volumes"), exist_ok=True)
 
-    nifti_list = glob.glob(os.path.join(SUBJECTS_ROOT, NIFTI_PATTERN))
+    # = glob.glob(os.path.join(SUBJECTS_ROOT, NIFTI_PATTERN))
+    nifti_list = glob.glob(os.path.join(SUBJECTS_ROOT, "**", NIFTI_PATTERN), recursive=True) + \
+             glob.glob(os.path.join(SUBJECTS_ROOT, NIFTI_PATTERN))
+    nifti_list = sorted(set(nifti_list))
     nifti_list.sort()
-    
+
+    print(f"Searching in: {os.path.abspath(SUBJECTS_ROOT)}")
     print(f"Found {len(nifti_list)} NIfTI files")
 
     rows_2d = []
